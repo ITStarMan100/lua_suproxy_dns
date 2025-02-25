@@ -6,7 +6,7 @@ asdad
 
 asdasd
 
-![](D:\___my_git\lua_suproxy_dns\image\1111.png)
+![](https://github.com/ITStarMan100/lua_suproxy_dns/blob/main/image/1111.png)
 
 |      |      |      |
 | ---- | ---- | ---- |
